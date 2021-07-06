@@ -155,8 +155,8 @@
   
   .learn-more {
       text-decoration: none;
-      background-color: white;
-      color: violet;
+      background-color: red;
+      color: black;
       padding: 10px 20px;
       box-shadow: .5px .5px 3px blue;
       border-radius: 8px;
@@ -213,12 +213,14 @@
       padding-bottom: 100px;
   }
   
-  .span-food-color {
-      font-family: 'Orbitron', sans-serif;
-      color: red;
+  .footer2 {
+      color: rgb(238, 114, 13)
   }
   
-  .span-hub-color {
-      font-family: 'Tourney', cursive;
-      color: grey;
+  .footer1 {
+      text-align: center;
+  }
+  
+  .about-main {
+      background-image: url(images/shapes/Frame\ 58.jpg);
   }
