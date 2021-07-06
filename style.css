@@ -1,0 +1,224 @@
+  body {
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+  }
+  
+  section {
+      margin-bottom: 70px;
+  }
+  /*First section styling*/
+  /*Company name styling */
+  
+  .logoname {
+      text-decoration: none;
+      font-size: 35px;
+  }
+  
+  .span-food {
+      font-family: 'Orbitron', sans-serif;
+      color: black;
+  }
+  
+  .span-hub {
+      font-family: 'Tourney', cursive;
+      color: black;
+  }
+  
+  .junior {
+      font-family: 'Cookie', cursive;
+      color: red;
+  }
+  /*Company name styling end */
+  /* Home description styling*/
+  /*Section and division styling */
+  
+  .home-main {
+      display: flex;
+  }
+  
+  .home-description {
+      width: 50%;
+  }
+  
+  #home-main-padding {
+      padding: 2% 2% 2% 5%;
+  }
+  
+  .home-description img {
+      width: 85%;
+  }
+  /*Heading of home manu*/
+  
+  .description-heading {
+      font-size: 50px;
+  }
+  
+  .yummy-style {
+      color: orangered;
+  }
+  /* Food Hub  Description */
+  
+  .description-para {
+      margin-bottom: 65px;
+      font-weight: 1000;
+      color: black;
+  }
+  
+  .order-button {
+      text-decoration: none;
+      background-image: linear-gradient(orange, red);
+      color: white;
+      padding: 20px 45px;
+      border-radius: 40px;
+  }
+  
+  .about {
+      font-size: 35px;
+      font-weight: 900;
+      color: gray;
+  }
+  
+  .myname {
+      font-size: 20px;
+  }
+  /*Description about me */
+  
+  #para-padding {
+      padding-right: 130px;
+      margin-bottom: 70px;
+  }
+  /* Section & division styling */
+  
+  .about-main {
+      display: flex;
+      background-image: url(./image/shape/Frame\ 58.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
+  
+  .about-description {
+      width: 50%;
+  }
+  
+  .about-description img {
+      width: 60%;
+  }
+  
+  #about-padding {
+      padding-top: 50px;
+      padding-right: 100px;
+  }
+  
+  #photo-padding {
+      padding-top: 60px;
+      padding-left: 130px;
+  }
+  
+  .recipies {
+      text-align: center;
+      margin-bottom: 50px;
+  }
+  
+  .recipies p {
+      font-size: 16px;
+  }
+  
+  .recipies-main {
+      display: flex;
+  }
+  
+  .recipies-view {
+      width: 27%;
+      padding: 2%;
+      box-shadow: 10px 10px 40px gray;
+      border-radius: 20px;
+      text-align: center;
+  }
+  
+  .recipies-view img {
+      width: 100%;
+  }
+  
+  .recipies-view-margin1 {
+      margin-left: 6.5%;
+      margin-right: 3%;
+  }
+  
+  .recipies-view-margin2 {
+      margin-left: 3%;
+      margin-right: 6.5%;
+  }
+  
+  .foodname {
+      font-size: 25px;
+  }
+  
+  .learn-more {
+      text-decoration: none;
+      background-color: white;
+      color: violet;
+      padding: 10px 20px;
+      box-shadow: .5px .5px 3px blue;
+      border-radius: 8px;
+  }
+  /*Learn More button design  end */
+  /* All My recipies style end */
+  /* All My recipies style end*/
+  /*Fourth Section*/
+  
+  .popularity {
+      display: flex;
+      width: 90%;
+      margin-top: 120px;
+      margin-left: 5%;
+      margin-right: 5%;
+      margin-bottom: 70px;
+      box-shadow: 10px 10px 30px gray;
+      border-radius: 30px;
+  }
+  
+  .popular {
+      width: 25%;
+      padding: 20px;
+      text-align: center;
+  }
+  
+  .youtube {
+      margin-left: 5%;
+      margin-right: 3%;
+  }
+  
+  .insta {
+      margin-left: 3%;
+      margin-right: 3%;
+  }
+  
+  .like {
+      margin-left: 3%;
+      margin-right: 5%;
+  }
+  
+  .remove-margin-padding {
+      margin-bottom: 5px;
+      padding-bottom: 0;
+  }
+  /*Forth Section End*/
+  /*Footer */
+  
+  .finish {
+      background-color: black;
+      color: white;
+      text-align: center;
+      padding-top: 20px;
+      padding-bottom: 100px;
+  }
+  
+  .span-food-color {
+      font-family: 'Orbitron', sans-serif;
+      color: red;
+  }
+  
+  .span-hub-color {
+      font-family: 'Tourney', cursive;
+      color: grey;
+  }
